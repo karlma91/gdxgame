@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="libs/gdx.jar" sourcepath="libs/gdx-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/bodyeditor-loader.jar" sourcepath="libs/bodyeditor-loader-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/tween-engine-api.jar" sourcepath="libs/tween-engine-api-sources.jar"/>
+	<classpathentry kind="lib" path="libs/artemis-a609b2076aacc0ef5ecf0b390205d01bb88ceae2.jar" sourcepath="libs/artemis-a609b2076aacc0ef5ecf0b390205d01bb88ceae2-src.jar"/>
+	<classpathentry kind="lib" path="libs/box2dlights.jar" sourcepath="libs/box2dlights-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

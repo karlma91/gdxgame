@@ -1,0 +1,152 @@
+
+game.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ball
+  rotate: false
+  xy: 2, 476
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+button-down
+  rotate: false
+  xy: 144, 8
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+button-up
+  rotate: false
+  xy: 516, 515
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+cable_blue
+  rotate: false
+  xy: 658, 587
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+cable_green
+  rotate: false
+  xy: 274, 8
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+cable_grey
+  rotate: false
+  xy: 724, 587
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+cable_red
+  rotate: false
+  xy: 790, 587
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+cable_yellow
+  rotate: false
+  xy: 856, 587
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ground
+  rotate: false
+  xy: 340, 8
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+light_liten
+  rotate: false
+  xy: 404, 175
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+player_liten
+  rotate: false
+  xy: 404, 334
+  size: 70, 140
+  orig: 70, 140
+  offset: 0, 0
+  index: -1
+playknapp_ned_liten
+  rotate: false
+  xy: 2, 2
+  size: 140, 70
+  orig: 140, 70
+  offset: 0, 0
+  index: -1
+playknapp_opp_liten
+  rotate: false
+  xy: 516, 581
+  size: 140, 70
+  orig: 140, 70
+  offset: 0, 0
+  index: -1
+pokal_liten
+  rotate: false
+  xy: 404, 118
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+rocket
+  rotate: false
+  xy: 404, 232
+  size: 57, 100
+  orig: 57, 100
+  offset: 0, 0
+  index: -1
+speaker_off_liten
+  rotate: false
+  xy: 922, 596
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+speaker_on_liten
+  rotate: false
+  xy: 476, 419
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+tannhjul_liten
+  rotate: false
+  xy: 476, 362
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+title_liten
+  rotate: false
+  xy: 516, 653
+  size: 450, 77
+  orig: 450, 77
+  offset: 0, 0
+  index: -1
+wall
+  rotate: false
+  xy: 2, 74
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ww
+  rotate: false
+  xy: 516, 732
+  size: 478, 256
+  orig: 478, 256
+  offset: 0, 0
+  index: -1
